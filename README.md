@@ -32,4 +32,4 @@ The slope map classifies the terrain into six distinct ranges to visualize the v
 **Asif Iqbal Nabil**
 *Environmental Researcher & GIS Enthusiast*
 *   [LinkedIn Profile](https://www.linkedin.com/in/esdmnabil/)
-*   [Email Address](asif.esdm.pstu@gmail.com)
+*   [Email Address](mailto:asif.esdm.pstu@gmail.com)
